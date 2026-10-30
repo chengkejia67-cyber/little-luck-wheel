@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "segments": [
+    {"name": "喝一杯咖啡", "weight": 1},
+    {"name": "出去走走", "weight": 1},
+    {"name": "读几页书", "weight": 2},
+    {"name": "听首喜欢的歌", "weight": 1},
+    {"name": "来点小甜品", "weight": 1},
+    {"name": "享受发呆时光", "weight": 2}
+  ]
+}
